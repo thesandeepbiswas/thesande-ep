@@ -22,7 +22,7 @@ I build scalable web apps, dive into data, and explore the latest in tech. Alway
 
 | Platform        | Profile Link                                     |
 |-----------------|-------------------------------------------------|
-| **LinkedIn**    | [linkedin.com/in/thisissande-ep](https://linkedin.com/in/thisissande-ep/) |
+| **LinkedIn**    | [linkedin.com/in/thisissande-ep](https://linkedin.com/in/thesandeepbiswas) |
 | **Twitter**     | [x.com/thisissande-ep](https://x.com/thisissande_ep)         |
 
 ---
@@ -70,7 +70,7 @@ Feel free to connect and collaborate on open source projects or anything creativ
 
 ### 🔗 **Quick Links**
 
-[🐦 Twitter](https://twitter.com/thisissande_ep) | [💼 LinkedIn](https://linkedin.com/in/thisissande-ep/) 
+[🐦 Twitter](https://twitter.com/thisissande_ep) | [💼 LinkedIn](https://linkedin.com/in/thesandeepbiswas) 
 ---
 
 ### ⚡ **Fun Fact**
